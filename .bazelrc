@@ -1,0 +1,1 @@
+build --javacopt=-Xlint:all,-processing,-deprecation --javacopt=-Werror
